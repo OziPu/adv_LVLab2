@@ -55,6 +55,7 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Boiler Controller.vi" Type="VI" URL="../Controller/Boiler Controller.vi"/>
+		<Item Name="boiler.lvlib" Type="Library" URL="../Boiler/boiler.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Moja kontrolka lab 3.ctl" Type="VI" URL="../support/Moja kontrolka lab 3.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -94,6 +95,7 @@
 			</Item>
 			<Item Name="Enqueue Message.vi" Type="VI" URL="../../../../Course Project/support/Message Queue/Enqueue Message.vi"/>
 			<Item Name="Message Cluster.ctl" Type="VI" URL="../../../../Course Project/support/Message Queue/Message Cluster.ctl"/>
+			<Item Name="Notifiers.ctl" Type="VI" URL="../support/Notifiers/Notifiers.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Boiler Controller" Type="EXE">
